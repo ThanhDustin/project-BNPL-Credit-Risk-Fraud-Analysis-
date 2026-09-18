@@ -3,8 +3,6 @@
 ## 📌 Project Overview
 This project investigates a severe 40% surge in delinquency rates during Q1 2026 for "PayLaterCo", a Buy Now, Pay Later (BNPL) provider. By analyzing a portfolio of over 267,000 loans, this analysis aims to debunk operational assumptions (seasonality), uncover structural vulnerabilities in the underwriting process, and pinpoint the root cause of the credit degradation to propose targeted risk mitigation strategies.
 
-> **View the full 4-page interactive dashboard [here](insert_your_powerbi_public_link_here) or download the PDF report [here](insert_pdf_github_link).**
-
 ## 🛠️ Tech Stack & Data Engineering
 * **Data Processing & Analysis (SQL/PostgreSQL):** Engineered advanced queries (multi-level CTEs, aggregations, and Joins) to integrate 5 distinct datasets (Loans, Merchants, Customers, Applications, Repayments). Restructured the definition of "Bad Loans" by discovering and including the hidden 'restructured' status to ensure absolute data integrity.
 * **Visualization (Power BI):** Designed a 4-page executive dashboard featuring dynamic risk-volume scatter matrices, dual-axis trend comparisons, and categorical drill-downs for seamless data storytelling.

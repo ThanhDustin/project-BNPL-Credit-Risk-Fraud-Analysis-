@@ -32,11 +32,14 @@ The most severe operational leak was found in **3-month loans for Basic KYC user
 
 **
 ## 📊 Dashboard Previews
-![Dashboard]([https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhoverview.png](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang1.png))
-![Dashboard]([https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhoverview.png](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang2.png))
-![Dashboard]([https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhoverview.png](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang3.png))
-![Dashboard]([https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhoverview.png](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang4.png))
 
+![Dashboard](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang1.png)
+
+![Dashboard](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang2.png)
+
+![Dashboard](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang3.png)
+
+![Dashboard](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang4.png)
 ---
 
 ## 🚀 Recommendations

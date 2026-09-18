@@ -32,6 +32,7 @@ The most severe operational leak was found in **3-month loans for Basic KYC user
 ## 🚀 Recommendations
 1. **Surgical Credit Freeze:** Immediately halt or heavily restrict Electronics financing for the "New Merchant" cohort, particularly for Basic KYC applicants.
 2. **Underwriting Recalibration:** Align the approval threshold for new merchants (currently ~81%) back to the legacy baseline (~73%) until enhanced credit scoring models are deployed.
+3. **Enhanced KYC Workflow:** Mandate Premium KYC verification for all Electronics purchases exceeding standard volume thresholds.
 ## 📊 Dashboard Previews
 
 ![Dashboard](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang1.png)
@@ -44,4 +45,4 @@ The most severe operational leak was found in **3-month loans for Basic KYC user
 ---
 
 
-3. **Enhanced KYC Workflow:** Mandate Premium KYC verification for all Electronics purchases exceeding standard volume thresholds.
+

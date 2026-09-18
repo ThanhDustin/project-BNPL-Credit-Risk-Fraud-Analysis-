@@ -31,6 +31,9 @@ A deep-dive matrix (Category × KYC Tier × Term) isolated the core threat. Risk
 The most severe operational leak was found in **3-month loans for Basic KYC users**, hitting a critical **28.96% default rate** across a massive volume of 1,478 loans. (Additionally, Premium users on 12-month terms also hit a 35.1% default, though at a lower volume). This concentrated pattern strongly indicates targeted exploitation of high-value, highly liquid goods under relaxed underwriting conditions, rather than standard, widespread credit deterioration.
 
 **
+## 🚀 Recommendations
+1. **Surgical Credit Freeze:** Immediately halt or heavily restrict Electronics financing for the "New Merchant" cohort, particularly for Basic KYC applicants.
+2. **Underwriting Recalibration:** Align the approval threshold for new merchants (currently ~81%) back to the legacy baseline (~73%) until enhanced credit scoring models are deployed.
 ## 📊 Dashboard Previews
 
 ![Dashboard](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang1.png)
@@ -42,7 +45,5 @@ The most severe operational leak was found in **3-month loans for Basic KYC user
 ![Dashboard](https://github.com/ThanhDustin/project-BNPL-Credit-Risk-Fraud-Analysis-/blob/main/trang4.png)
 ---
 
-## 🚀 Recommendations
-1. **Surgical Credit Freeze:** Immediately halt or heavily restrict Electronics financing for the "New Merchant" cohort, particularly for Basic KYC applicants.
-2. **Underwriting Recalibration:** Align the approval threshold for new merchants (currently ~81%) back to the legacy baseline (~73%) until enhanced credit scoring models are deployed.
+
 3. **Enhanced KYC Workflow:** Mandate Premium KYC verification for all Electronics purchases exceeding standard volume thresholds.

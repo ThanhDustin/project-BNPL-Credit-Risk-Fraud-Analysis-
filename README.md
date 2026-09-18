@@ -31,7 +31,10 @@ A deep-dive matrix (Category × KYC Tier × Term) isolated the core threat. Risk
 The most severe operational leak was found in **3-month loans for Basic KYC users**, hitting a critical **28.96% default rate** across a massive volume of 1,478 loans. (Additionally, Premium users on 12-month terms also hit a 35.1% default, though at a lower volume). This concentrated pattern strongly indicates targeted exploitation of high-value, highly liquid goods under relaxed underwriting conditions, rather than standard, widespread credit deterioration.
 
 **
-
+## 📊 Dashboard Previews
+![Dashboard](https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhoverview.png)
+![Dashboard](https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhdetail.png)
+![Dashboard](https://github.com/ThanhDustin/project-Storm-Events-Data-Analysis-Visualization/blob/main/hinhcorrandsource.jpg)
 ---
 
 ## 🚀 Recommendations
